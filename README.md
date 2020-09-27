@@ -23,16 +23,20 @@ There were not any challenges that were encountered with either of the analyses.
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+
 The [Theater Outcomes versus Launch line chart](resources/Theater_Outcomes_vs_Launch.png) provides a visualization of the relationship between the various outcomes and each specific launch month. The best and most ideal month during the year to have a successful theater is May, and the least ideal would be December. In general, theaters are more successful during the summer, and the number of successful theaters decreases and the outcome of failing increases during the fall months. The number of canceled theaters remained constant and did not have any spikes from month to month. 
 
 - What can you conclude about the Outcomes based on Goals?
+
 When looking at the [Outcomes based on Goals](resources/Outcomes_vs_Goals.png), plays with mid-range goals (from 24,999 to 34,999) do not do well. There is a lower percentage of success and higher percentage of failures in this range. Also, it is critical to note that plays with goals higher than 45000, have a little to no success with only slight changes in success rates as the goal moves closer to 50000. 
 
 - What are some limitations of this dataset?
+
 The Kickstarter dataset does not have current data. Per the "Years" column, the most recent data is from 2017. More current data could have an impact on the two analyses that were run or could yield very different results that would a great benefit to Louise. 
 
 With the data being pulled from a variety of different counties and with all of the categories and subcategories, it could be possible that some of the data may not be accurate or consistent. Data validation of the variety of data elements would be useful. 
 
 - What are some other possible tables and/or graphs that we could create?
+
 There are several new tables and/or graphs that can be created. It would be valuable to look at the outcomes based on the number of backers or by amount pledged. It would be interesting to look specifically at play and goals by year and then by country to see if plays have done better more recently than in the past in the US. 
 

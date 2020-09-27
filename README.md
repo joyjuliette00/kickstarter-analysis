@@ -10,7 +10,7 @@ The purpose of this project was to provide two different analyses: one that help
 ### Analysis of Outcomes Based on Launch Date
 To be able to analyze the outcomes based on launch date, it was first necesary to extract the year as a data point from "Date Created-Conversion." A pivot table was the best tool for this analysis, and then appropriate filtering was added to look specifically at "successful," "failed," and "canceled."
 
-The [line chart](docs/CONTRIBUTING.md) provides a visualization of the relationship between the various outcomes and each specific launch month. 
+The [line chart](resources/Theater_Outcomes_vs_Launch.png) provides a visualization of the relationship between the various outcomes and each specific launch month. 
 
 ### Analysis of Outcomes Based on Goals
 

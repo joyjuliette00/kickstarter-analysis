@@ -18,7 +18,7 @@ The second analysis is to look at the percentage of successful, failed, and canc
 A [line chart](resources/Outcomes_vs_Goals.png) was created to provide a visualization of the results.
 
 ### Challenges and Difficulties Encountered
-There were not any challenges that were encoutered with either of the analyses. There are possible challenges or difficulties that could be encountered with working with the original Kickstarter file. Before performing a new analysis, it was critical to see what filters had been applied to the main spreadsheet. The best way to mitigate that situation is to clear filters before beginning a new analysis or create a new chart or table such as Pivot Table. 
+There were not any challenges that were encountered with either of the analyses. There are possible challenges or difficulties that could arise with working with the original Kickstarter file. Before performing a new analysis, it was critical to see what filters had been applied to the main spreadsheet. The best way to mitigate that situation is to clear all filters before beginning a new analysis or create a new chart or table such as Pivot Table. 
 
 ## Results
 

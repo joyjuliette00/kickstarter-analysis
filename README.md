@@ -15,6 +15,8 @@ The [line chart](resources/Theater_Outcomes_vs_Launch.png) was created to provid
 ### Analysis of Outcomes Based on Goals
 The second analysis is to look at the percentage of successful, failed, and canceled plays based on the funding goal amount. This analysis required a new spreadsheet with a 12 ranges of goal levels. The number of successful, failed, and canceled plays were counted and summed allowing for percentages of each outcome to also be run. 
 
+A [line chart](resources/Outcomes_vs_Goals.png) was created to provide a visualization of the results.
+
 ### Challenges and Difficulties Encountered
 
 ## Results
